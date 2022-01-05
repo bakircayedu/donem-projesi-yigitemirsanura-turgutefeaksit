@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVCTrain",
+    "\\MVCTrain\\MVCTrainProject",
+    "\\MVCTrain\\MVCTrainProject\\Controllers",
+    "\\MVCTrain\\MVCTrainProject\\Models",
+    "\\MVCTrain\\MVCTrainProject\\Views",
+    "\\MVCTrain\\MVCTrainProject\\Views\\Customer"
+  ],
+  "SelectedNode": "\\MVCTrain\\MVCTrainProject\\Controllers\\CustomerController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,239 @@
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\MVCTrainProject.dll.config
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\MVCTrainProject.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\MVCTrainProject.pdb
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\csc.exe
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\csc.exe.config
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\csc.rsp
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\csi.exe
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\csi.exe.config
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\csi.rsp
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.AppContext.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Console.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Net.Http.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\vbc.exe
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\vbc.exe.config
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\vbc.rsp
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Helpers.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Mvc.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Razor.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Razor.xml
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.xml
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Helpers.xml
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\System.Web.Mvc.xml
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.csproj.CoreCompileInputs.cache
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.csproj.CopyComplete
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.pdb
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.csprojAssemblyReference.cache
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\EntityFramework.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\EntityFramework.SqlServer.dll
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\EntityFramework.xml
+C:\Users\turya\source\repos\MVCTrain\MVCTrainProject\bin\EntityFramework.SqlServer.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\MVCTrainProject.dll.config
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\MVCTrainProject.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\MVCTrainProject.pdb
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csc.exe
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csc.exe.config
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csc.rsp
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csi.exe
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csi.exe.config
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csi.rsp
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.AppContext.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Console.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Globalization.Calendars.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.Compression.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Net.Http.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Net.Sockets.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.ValueTuple.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.XPath.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\vbc.exe
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\vbc.exe.config
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\vbc.rsp
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\VBCSCompiler.exe
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\EntityFramework.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\EntityFramework.SqlServer.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Helpers.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Mvc.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Razor.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Deployment.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Razor.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\EntityFramework.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\EntityFramework.SqlServer.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Razor.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Deployment.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Razor.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Helpers.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Mvc.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.csproj.CoreCompileInputs.cache
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.csproj.CopyComplete
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.pdb
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Razor.resources.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Webpages.resources.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Webpages.Deployment.resources.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Webpages.Razor.resources.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Helpers.resources.dll
+D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\MVCTrainProject.dll.config
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\MVCTrainProject.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\MVCTrainProject.pdb
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csc.exe
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csc.exe.config
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csc.rsp
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csi.exe
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csi.exe.config
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\csi.rsp
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.AppContext.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Console.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Net.Http.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\vbc.exe
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\vbc.exe.config
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\vbc.rsp
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\EntityFramework.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\EntityFramework.SqlServer.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Helpers.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Mvc.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Razor.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\EntityFramework.xml
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\EntityFramework.SqlServer.xml
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Razor.xml
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.xml
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Helpers.xml
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\System.Web.Mvc.xml
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Razor.resources.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Webpages.resources.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Webpages.Razor.resources.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.csproj.AssemblyReference.cache
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.csproj.CopyComplete
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.dll
+C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\obj\Debug\MVCTrainProject.pdb
