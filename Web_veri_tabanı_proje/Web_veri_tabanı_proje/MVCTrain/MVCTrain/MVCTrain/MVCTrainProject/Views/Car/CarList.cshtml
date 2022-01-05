@@ -16,7 +16,7 @@
 <html>
 <head>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width" />
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
     <script src="~/Scripts/jquery-3.6.0.min.js"></script>
     <title>Car List</title>
@@ -51,7 +51,8 @@
                                 <td style="border: 1px solid black; padding: 10px">@car.customer.lname</td>
                                 <td style="border: 1px solid black; padding: 10px">@car.car_plate</td>
                                 <td style="border: 1px solid black"><a href="/Car/Delete/@car.car_id" onclick="Alert(@car.car_id)" id="@car.car_id" class="btn btn-danger">SİL / DELETE</a> </td>
-                                
+                                @*<td style="border: 1px solid black"><a href="/Customer/BringCustomer/@customer.customer_id" class="btn btn-success">GÜNCELLE</a> </td>
+                                    <td style="border: 1px solid black"><a href="/Car/AddCar/@customer.customer_id" class="btn btn-warning">Araba Ekle</a> </td>*@
                                 <br />
                             </tr>
 

@@ -113,8 +113,6 @@
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\LoginPage.css" />
-    <Content Include="Content\navbar.css" />
-    <Content Include="Content\responsivePage.css" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\Style.css" />
     <Content Include="Global.asax" />

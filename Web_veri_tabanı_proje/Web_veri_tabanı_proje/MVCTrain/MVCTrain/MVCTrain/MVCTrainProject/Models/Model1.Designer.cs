@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\yigit\OneDrive\Belgeler\MVCTrain\MVCTrain\MVCTrain\MVCTrainProject\Models\Model1.edmx'. 
+﻿// T4 code generation is enabled for model 'D:\Web programlama\MVCTrain\MVCTrain\MVCTrainProject\Models\Model1.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

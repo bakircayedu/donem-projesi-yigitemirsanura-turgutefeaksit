@@ -37,7 +37,7 @@ namespace MVCTrainProject.Controllers
         {
             var item = db.car.Find(id);
             item.situation = 1;
-            
+            //db.car.Remove(item);
             db.SaveChanges();
             return RedirectToAction("CarList");
         }

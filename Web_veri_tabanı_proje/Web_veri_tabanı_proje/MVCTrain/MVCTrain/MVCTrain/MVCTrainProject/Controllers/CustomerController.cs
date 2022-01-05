@@ -37,7 +37,7 @@ namespace MVCTrainProject.Controllers
         {
             var item = db.customer.Find(id);
             item.situation = 1;
-            
+            //db.customer.Remove(item);
             db.SaveChanges();
             return RedirectToAction("Index");
         }

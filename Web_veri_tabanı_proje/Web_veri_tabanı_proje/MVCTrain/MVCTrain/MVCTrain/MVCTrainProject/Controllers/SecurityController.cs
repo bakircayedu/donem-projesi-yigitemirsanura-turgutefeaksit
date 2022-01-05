@@ -26,9 +26,8 @@ namespace MVCTrainProject.Controllers
                 FormsAuthentication.SetAuthCookie(info.email, false);
                 return RedirectToAction("Index", "Park");
             }
-            else 
+            else
             {
-                ViewBag.Message = "Şifre veya E-posta Hatalı...";
                 return View();
             }
         }

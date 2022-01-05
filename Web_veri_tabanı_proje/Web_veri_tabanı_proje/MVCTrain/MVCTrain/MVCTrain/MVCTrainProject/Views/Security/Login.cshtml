@@ -4,7 +4,6 @@
     Layout = "~/Views/Shared/_CustomerLayout.cshtml";
 }
 
-
 <h2 style="color:white">Login / Giriş Yap</h2>
 
 
@@ -12,7 +11,8 @@
 
 <html>
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="viewport" content="width=device-width" />
     <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
     <script src="~/Scripts/jquery-3.6.0.min.js"></script>
     <title>Index</title>
@@ -25,16 +25,23 @@
         <br />
         <label style="color:white">E-Mail</label>
         <br />
-        <input type="email" name="email" id="email">
+        <input type="text" name="email" id="email">
         <br />
         <label style="color:white">Şifre / Password</label>
         <br />
         <input type="password" name="pword" id="pword">
         <br />
         <button id="uyari" class="btn btn-success" type="submit">Giriş</button>
-        <label style="color: red; font-weight:bold">@ViewBag.Message</label>
 
+        <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+        <script>
+            $(function () {
+                $("#uyari").on('click', function () {
+                    window.alert("Sisteme Başarıyla Giriş Yaptınız");
+                });
+            });
+        </script>
 
-     }
+    }
 </body>
 </html>

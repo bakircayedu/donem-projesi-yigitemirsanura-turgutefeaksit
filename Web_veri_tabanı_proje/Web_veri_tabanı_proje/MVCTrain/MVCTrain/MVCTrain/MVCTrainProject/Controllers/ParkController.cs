@@ -6,7 +6,6 @@ using System.Web;
 using System.Net;
 using System.Web.Mvc;
 using MVCTrainProject.Models;
-using MVCTrainProject.Models.Classes;
 
 namespace MVCTrainProject.Controllers
 {
@@ -16,78 +15,76 @@ namespace MVCTrainProject.Controllers
         // GET: Park
         public ActionResult Index()
         {
-            IEnumClass enumClass = new IEnumClass();
             var values = db.park_place.ToList();
-            enumClass.Park_Places = values.ToList();
-            return View(enumClass.Park_Places);
-            
+            return View(values);
         }
 
-        [HttpGet]
+        public ActionResult CustomerIndex()
+        {
+            var values = db.park_place.ToList();
+            return View(values);
+        }
+
+        //[HttpGet]
+        //public ActionResult Park_Registration()
+        //{
+        //    IEnumClass cs = new IEnumClass();
+        //    cs.CarEnum = db.car.ToList();
+        //    cs.ParkEnum = db.park_place.ToList();
+
+        //    List<SelectListItem> carValues = (from i in db.car.ToList()
+        //                                      select new SelectListItem
+        //                                      {
+        //                                          Text = i.car_plate,
+        //                                          Value = i.car_plate.ToString()
+        //                                      }).ToList();
+        //    ViewBag.vl = carValues;
+
+        //    List<SelectListItem> parkValues = (from i in db.park_place.ToList()
+        //                                       select new SelectListItem
+        //                                       {
+
+        //                                           Text = i.loc_number.ToString(),
+        //                                           Value = i.loc_number.ToString()
+        //                                       }
+        //                                       ).ToList();
+        //    ViewBag.vl2 = parkValues;
+
+        //    return View(cs);
+        //}
+        //[HttpPost]
+        //public ActionResult Park_Registration(registration_date r)
+        //{
+        //    r.entery_time = DateTime.Now;
+        //    db.registration_date.Add(r);
+        //    db.SaveChanges();
+        //    return View();
+        //}
+        //,,,,,
+
         public ActionResult Park_Registration()
         {
-            IEnumClass cs = new IEnumClass();
-            cs.CarEnum = db.car.ToList();
-            cs.ParkEnum = db.park_place.ToList();
-
-            List<SelectListItem> carValues = (from i in db.car
-                                              where i.situation == null
-                                              select new SelectListItem
-                                              {
-                                                  Text = i.car_plate,
-                                                  Value = i.car_plate.ToString()
-                                              }).ToList();
-            ViewBag.vl = carValues;
-
-            List<SelectListItem> parkValues = (from i in db.park_place
-                                               where i.occupancy_info == "BOŞ"
-                                               select new SelectListItem
-                                               {
-
-                                                   Text = i.loc_number.ToString(),
-                                                   Value = i.loc_number.ToString()
-                                               }
-                                               ).ToList();
-            ViewBag.vl2 = parkValues;
-
+            ViewBag.car_id = new SelectList(db.car, "car_id", "car_plate");
+            ViewBag.loc_number = new SelectList(db.park_place, "loc_number", "occupancy_info").Where(p => p.Text == "BOŞ");
+            //ViewBag.loc_number = new SelectList(db.park_place, "loc_number", "loc_number").Where(p => p. == "BOŞ"); 
             return View();
         }
 
         [HttpPost]
-        public ActionResult Park_Registration(IEnumClass cs)
+        public ActionResult Park_Registration([Bind(Include = "r_date_id,car_id,leave_time,entery_time,loc_number")] registration_date r)
         {
-            registration_date r = new registration_date();
-
-            var car_id = from c in db.car
-                         where c.car_plate == cs.carClass.car_plate
-                         select c;
-
-
-            var park = from p in db.park_place
-                       where p.loc_number == cs.parkClass.loc_number
-                       select p;
-            car car2 = new car();
-            car2 = car_id.FirstOrDefault();
-
-            park_place park2 = new park_place();
-            park2 = park.FirstOrDefault();
-
-            var park3 = db.park_place.Find(park2.loc_number);
-            park3.occupancy_info = "DOLU";
-
-            r.car_id = car2.car_id;
-            r.loc_number = cs.parkClass.loc_number;
+            var park = db.park_place.Find(r.loc_number);
+            park.occupancy_info = "DOLU";
+            r.park_place = park;
             r.entery_time = DateTime.Now;
-
-            r.park_place = park3;
-
             db.registration_date.Add(r);
             db.SaveChanges();
-            return RedirectToAction("Index", "Customer");
+            return RedirectToAction("ParkList");
 
-            
+
+            //ViewBag.carID = new SelectList(db.car, "car_id", "car_plate");
+            //return View(r);
         }
-        
 
         public ActionResult ParkList()
         {
@@ -104,22 +101,14 @@ namespace MVCTrainProject.Controllers
         public ActionResult End_Process(int id)
         {
             var item = db.registration_date.Find(id);
-            
             var park = db.park_place.Find(item.loc_number);
             park.occupancy_info = "BOŞ";
             item.park_place = park;
             item.leave_time = DateTime.Now;
             db.SaveChanges();
-            return RedirectToAction("Index", "Customer");
+            return View("ParkList");
         }
 
-        public ActionResult CustomerIndex()
-        {
-            IEnumClass enumClass = new IEnumClass();
-            var values = db.park_place.ToList();
-            enumClass.Park_Places = values.ToList();
-            return View(enumClass.Park_Places);
-        }
 
     }
 }
